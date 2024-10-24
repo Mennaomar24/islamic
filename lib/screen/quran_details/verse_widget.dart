@@ -9,7 +9,7 @@ class VerseWidget extends StatelessWidget {
     required this.verse,
     required this.verseNumber,
   });
-  // hello menna
+
   @override
   Widget build(BuildContext context) {
     return Text(
